@@ -6,8 +6,8 @@
 import requests
 import json
 
-API_KEY = '2ebf374158f21b1c364c4fd52d635ee8'
-USER_AGENT = 'playperstatura'
+API_KEY = '*****************************'
+USER_AGENT = '***************'
 
 #headers = {
 #    'user-agent': USER_AGENT
